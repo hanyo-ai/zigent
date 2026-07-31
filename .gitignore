@@ -1,0 +1,6 @@
+.zig-cache/
+.signals/
+.agents/
+zig-out/
+.env
+mise.toml
